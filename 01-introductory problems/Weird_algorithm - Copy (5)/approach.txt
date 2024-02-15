@@ -1,1 +1,0 @@
-In this question everything is pretty clear and straightforward as all we have to do is use a loop and iterate through it until we reach 1, and printing all the numbers we get along the way. The only issue a beginner might face is selection of datatype as long long instead of int.

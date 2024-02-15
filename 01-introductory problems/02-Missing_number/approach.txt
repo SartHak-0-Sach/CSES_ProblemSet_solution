@@ -1,1 +1,0 @@
-In this question, we declared a visited array to find the missing number as all other numbers present will be incremented to one in O(N) time in a single loop and then the missing element can be presented as output by using another loop to check which number is 0.

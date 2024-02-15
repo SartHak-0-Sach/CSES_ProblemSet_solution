@@ -1,1 +1,0 @@
-We will do this question by using a single loop and updating each index if it is less than its previous index in array and adding the difference to count variable to account for minimum number of steps required to move.
